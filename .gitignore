@@ -1,0 +1,5 @@
+/.gradle
+/build
+/com
+*.class
+/docs
